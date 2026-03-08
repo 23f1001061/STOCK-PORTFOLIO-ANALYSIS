@@ -1,1 +1,1 @@
-This is a Data Science Project for Finnancial data Analytics
+This is a Data Science Project for Financial data Analytics
